@@ -17,11 +17,13 @@
 解析口：https://api.xiusebf.com/m3u8/?url=
 {"name":"探探资源","url":"https://apittzy.com/api.php"},
 解析：https://jiexi.ttbfp1.com/m3u8/?url=
+{"name":"辣椒资源","url":"https://apilj.com/api.php"},
+解析：https://lajiaoapi.com/watch?url=
+{"name":"乐播资源","url":"https://lbapi9.com/api.php"},
+解析：https://lbjx9.com/?url=
 {"name":"99资源","url":"http://99zy.pw/api.php"},
-{"name":"麻豆视频","url":"https://madouse.la/api.php"},
 {"name":"91麻豆","url":"https://91md.me/api.php"},
-
-
+{"name":"麻豆视频","url":"https://madouse.la/api.php"},
 
 #CATVOD
 {"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -39,3 +41,5 @@
 {"key":"*99资源","name":"*99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*麻豆视频","name":"*麻豆视频2","type":1,"api":"https://madouse.la/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*辣椒资源","name":"*辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
+{"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
