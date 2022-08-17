@@ -1,6 +1,8 @@
 #BIUBIU
-
-
+{"name":"易看资源","url":"https://api.yikanapi.com/api.php"},
+{"name":"影库资源","url":"https://api.ykapi.net/api.php"},
+解析：http://jx.ykyunbo.com/m3u8.php?url=
+{"name":"KK资源","url":"https://kkzy.me/api.php"},
 
 #CATVOD
 {"key":"*易看资源","name":"*易看资源","type":0,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -11,7 +13,6 @@
 {"key":"*酷伦理","name":"*酷伦理","type":0,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 解析: https://jx.kujiexi.net/m3u8.php?url=
 {"key":"*影库资源","name":"*影库资源","type":0,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
-解析：http://jx.ykyunbo.com/m3u8.php?url=
 {"key":"*KK资源","name":"*KK写真资源","type":0,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
 {"key":"红牛资源","name":"红牛资源","type":0,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
