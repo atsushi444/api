@@ -1,9 +1,11 @@
 #BIUBIU
-{"name":"CK资源","url":"https://ckzy.me/api.php/"},
-解析：https://ckm3u8.cc/?url=
+
+
 
 #CATVOD
-{"key":"*易看资源","name":"*易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*易看资源","name":"*易看资源","type":0,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"CK资源","name":"CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+解析：https://ckm3u8.cc/?url=
 {"key":"*金鹰资源","name":"*金鹰资源","type":0,"api":"http://jinyingzy.com/provide/vod/","searchable":0,"quickSearch":0},
 解析: https://hd.njeere.com/play?url=
 {"key":"*酷伦理","name":"*酷伦理","type":0,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
