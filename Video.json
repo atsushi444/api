@@ -17,3 +17,5 @@
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
 {"key":"红牛资源","name":"红牛资源","type":0,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 解析：https://www.tutukiki.com/m3u8/?url=
+{"key":"无尽资源","name":"无尽资源","type":0,"api":"https://api.wujinapi.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+解析：https://jx.wujinkk.com/dplayer/?url=
