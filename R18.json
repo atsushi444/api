@@ -30,6 +30,7 @@
 {"name":"狼友资源","url":"https://www.langyouzy.com/api.php"},
 解析：https://langyouzy1.com/?url=
 {"name":"色南国资源","url":"https://api.sexnguon.com/api.php"},
+{"name":"皇冠资源","url":"https://hghhh.com/api.php"},
 
 #CATVOD
 {"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -51,8 +52,9 @@
 {"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*鲨鱼资源","name":"*鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*番号资源","name":"*番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key": "*狼友资源","name": "*狼友资源","type": 1,"api": "https://www.langyouzy.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
-{"key": "*色南国资源","name": "*色南国资源","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
+{"key":"*狼友资源","name":"*狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*色南国资源","name":"*色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*皇冠资源","name":"*皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 {"key":"*色猫资源","name":"*色猫资源","type":0,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 解析：https://api.semaoapi.com/m3u8/?url=
