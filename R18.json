@@ -53,6 +53,7 @@
 {"key":"*番号资源","name":"*番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key": "*狼友资源","name": "*狼友资源","type": 1,"api": "https://www.langyouzy.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 {"key": "*色南国资源","name": "*色南国资源","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
+
 {"key":"*色猫资源","name":"*色猫资源","type":0,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 解析：https://api.semaoapi.com/m3u8/?url=
 {"key":"*葡萄资源","name":"*葡萄资源","type":0,"api":"https://api.putaozy.net/inc/apijson_vod.php","searchable":0,"quickSearch":0},
