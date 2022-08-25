@@ -21,3 +21,5 @@
 解析：https://jx.wujinkk.com/dplayer/?url=
 {"key":"闪电资源","name":"闪电资源","type":0,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 解析：https://www.shankubf.com/m3u8/?url=
+{"key":"*三级片资源","name":"*三级片资源","type":0,"api":"https://caiji.jjjzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+解析：https://jiexi.jjjzy.cc/?url=
