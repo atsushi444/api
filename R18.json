@@ -116,3 +116,4 @@
 {"key":"*亚洲成人在线","name":"*亚洲成人在线","type":2,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*哥哥妹妹","name":"*哥哥妹妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
 {"key":"*蛋蛋视频","name":"蛋蛋视频","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"*大地资源","name":"*大地资源","type":0,"api":"https://dadiapi.com/api.php/","searchable": 1,"quickSearch": 1, "filterable": 0 },
