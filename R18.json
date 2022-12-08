@@ -37,6 +37,7 @@
 解析：https://player.huasese.com/m3u8.php?url=
 {"name":"玉蝴蝶资源","url":"https://jindiezy.com/api.php/"},
 解析：https://jindiejiekouurl.com/?url=
+{"name":"滴滴资源","url":"https://api.ddapi.cc/api.php"},
 
 #CATVOD
 {"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -119,3 +120,5 @@
 {"key":"*哥哥妹妹","name":"*哥哥妹妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
 {"key":"*蛋蛋视频","name":"蛋蛋视频","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"*大地资源","name":"*大地资源","type":0,"api":"https://dadiapi.com/api.php/","searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key":"*玉蝴蝶资源","name": "*玉蝴蝶资源","type": 1,"api": "https://jindiezy.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key":"*滴滴资源","name": "*滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
