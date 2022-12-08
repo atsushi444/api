@@ -35,6 +35,8 @@
 解析：https://sljxsl.com/?url=
 {"name":"花色资源","url":"https://api.huasezy.xyz/api.php"},
 解析：https://player.huasese.com/m3u8.php?url=
+{"name":"玉蝴蝶资源","url":"https://jindiezy.com/api.php/"},
+解析：https://jindiejiekouurl.com/?url=
 
 #CATVOD
 {"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
