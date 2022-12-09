@@ -90,6 +90,7 @@
 {"key":"*美少女资源","name":"*美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"*白嫖资源","name":"*白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*小湿妹资源","name":"*小湿妹资源","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"*黄AV资源", "name":"*黄AV资源","type": 0,"api":"https://www.pgxdy.com/api/xml.php","searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"*泡芙资源","name":"*泡芙资源","type":0,"api":"http://zmcj88.com/api?ac=list","url":"https://okjx.cc/?url=","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"*色屌丝资源","name":"*色屌丝资源","type":2,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml","searchable":0,"quickSearch":0},
@@ -121,4 +122,3 @@
 {"key":"*大地资源","name":"*大地资源","type":0,"api":"https://dadiapi.com/api.php/","searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"*玉蝴蝶资源","name": "*玉蝴蝶资源","type": 1,"api": "https://jindiezy.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"*滴滴资源","name": "*滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key":"*黄AV资源", "name":"*黄AV资源","type": 0,"api":"https://www.pgxdy.com/api/xml.php","searchable": 1, "quickSearch": 1, "filterable": 1 },
