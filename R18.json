@@ -39,6 +39,7 @@
 {"name":"滴滴资源","url":"https://api.ddapi.cc/api.php"},
 {"name":"奥斯卡资源","url":"https://aosikazy.com/api.php"},
 解析：https://aosikazyplayurl.com/?url=
+{"name":"抖阴视频","url":"https://www.888dav.com/api.php"},
 
 #CATVOD
 {"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
