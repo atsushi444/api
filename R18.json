@@ -75,7 +75,7 @@
 解析：https://jiexi.caomeiapi.com/?url=
 {"key":"*奶茶资源","name":"*奶茶资源","type":0,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 解析：https://jiexi.naichaapi.com/?url=
-{"key":"*JAV名优馆","name":"*JAV名优馆","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":0,"quickSearch":0},
+{ "key": "*JAV名优馆", "name": "*JAV名优馆", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"*环亚资源","name":"*环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"*色色资源","name":"*色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
