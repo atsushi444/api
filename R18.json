@@ -115,3 +115,4 @@
 {"key":"*大地资源","name":"*大地资源","type":0,"api":"https://dadiapi.com/api.php/","searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"*玉蝴蝶资源","name": "*玉蝴蝶资源","type": 1,"api": "https://jindiezy.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"*滴滴资源","name": "*滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key":"*AIvin","name":"*AIvin","type":1,"api":"http://lbapiby.com/api.php/provide/vod/at/xml"},
