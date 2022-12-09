@@ -116,3 +116,4 @@
 {"key":"*玉蝴蝶资源","name": "*玉蝴蝶资源","type": 1,"api": "https://jindiezy.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"*滴滴资源","name": "*滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"*AIvin","name":"*AIvin","type":1,"api":"http://lbapiby.com/api.php/provide/vod/at/xml"},
+{"key":"pwd_袜子","name":"袜子","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
