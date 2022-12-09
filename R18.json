@@ -26,7 +26,6 @@
 {"name":"鲨鱼资源","url":"https://shayuapi.com/api.php"},
 {"name":"99资源","url":"http://99zy.pw/api.php"},
 {"name":"91麻豆","url":"https://91md.me/api.php"},
-{"name":"麻豆视频","url":"https://madouse.la/api.php"},
 {"name":"狼友资源","url":"https://www.langyouzy.com/api.php"},
 解析：https://langyouzy1.com/?url=
 {"name":"色南国资源","url":"https://api.sexnguon.com/api.php"},
@@ -53,7 +52,6 @@
 {"key":"*秀色资源","name":"*秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*探探资源","name":"*探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*99资源","name":"*99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*麻豆视频","name":"*麻豆视频2","type":1,"api":"https://madouse.la/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*辣椒资源","name":"*辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
 {"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
