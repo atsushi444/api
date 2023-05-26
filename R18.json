@@ -1,6 +1,4 @@
 #BIUBIU
-{"name":"爱播资源","url":"https://cj.apiabzy.com/api.php"},
-解析：https://player.aibozyplayer.com/m3u8/?url=
 {"name":"酷豆资源","url":"https://api.kdapi.info/api.php"},
 解析：https://jx.kubohk.com/jx/?url=
 {"name":"丝袜资源","url":"https://siwazyw.cc/api.php"},
@@ -45,7 +43,6 @@
 {"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 解析：https://mgm3u8-player.com/player/DPm3u8.php?url=
 {"key":"*水蜜桃","name":"*水蜜桃","type":1,"api":"https://51smt4.xyz/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*爱播资源","name":"*爱播资源","type":1,"api":"https://cj.apiabzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*酷豆资源","name":"*酷豆资源","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
 {"key":"*色窝资源","name":"*色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
