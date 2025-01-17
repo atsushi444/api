@@ -1,7 +1,6 @@
 #BIUBIU
 {"name":"易看资源","url":"https://api.yikanapi.com/api.php"},
-{"name":"影库资源","url":"https://api.ykapi.net/api.php"},
-{"name":"KK资源","url":"https://kkzy.me/api.php"},
+
 
 
 #CATVOD
@@ -13,8 +12,4 @@
 解析：https://jx.wujinkk.com/dplayer/?url=
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 解析：https://www.shankubf.com/m3u8/?url=
-{"key":"*酷伦理","name":"*酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"*影库资源","name":"*影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"*KK资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"*速度资源","name":"*速度资源","type":1,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1},
-{"key":"*三级片资源","name":"*三级片资源","type":1,"api":"https://caiji.jjjzy.cc/inc/apijson_vod.php","searchable":1,"quickSearch":1},
+
