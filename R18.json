@@ -1,8 +1,4 @@
 #BIUBIU
-{"name":"老鸭资源","url":"https://api.apilyzy.com/api.php"},
-解析:https://player.77lehuo.com/aliplayer/?url=
-{"name":"秀色资源","url":"https://api.xiuseapi.com/api.php"},
-解析口：https://api.xiusebf.com/m3u8/?url=
 {"name":"探探资源","url":"https://apittzy.com/api.php"},
 解析：https://jiexi.ttbfp1.com/m3u8/?url=
 {"name":"辣椒资源","url":"https://apilj.com/api.php"},
@@ -30,8 +26,6 @@
 {"name":"抖阴视频","url":"https://www.888dav.com/api.php"},
 
 #CATVOD
-{"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-解析：https://mgm3u8-player.com/player/DPm3u8.php?url=
 {"key":"*水蜜桃","name":"*水蜜桃","type":1,"api":"https://51smt4.xyz/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*酷豆资源","name":"*酷豆资源","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*色窝资源","name":"*色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
